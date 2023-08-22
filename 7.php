@@ -28,5 +28,6 @@ for ($i = 1; $i <= 15; $i++) {
     }
 }
 
+//
 echo "Nilai tertinggi: $juara\n";
 ?>

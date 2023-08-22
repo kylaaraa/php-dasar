@@ -10,6 +10,6 @@ $total = $jam + $menit + $detik;
 
 echo "Total detik : " . $total;
 }
-
+//
 ?>
 

@@ -15,6 +15,7 @@ else if($waktu >= 60){
     $detik = $waktu;
     $hasil .= $detik . " detik "; 
 
+    //
 echo $hasil;
 }
 ?>

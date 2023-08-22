@@ -6,6 +6,8 @@ if ($bil % 2 == 0){
 }else {
     echo "$bil Merupakan Bilangan Ganjil"; 
 }
+
+//
 ?>
 
 
